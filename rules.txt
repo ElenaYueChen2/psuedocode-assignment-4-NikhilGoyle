@@ -8,3 +8,6 @@ At any point during the game, if a player has all 4 suits of a rank, called a bo
 The game continues until either any players runs out of cards in their hand or the middle pile does not have any cards remaining
 The winner is the player that has the highest number of complete books
 If two or more players have an equal number of complete books, then they tie
+
+
+Go fish should be played with multiple people and inside a computer science class. 
